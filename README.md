@@ -1,9 +1,9 @@
-## MERN y Typescrip
+# MERN y Typescript
 
-# Backend
+## Backend
 
 Api rest usando Typescript, operaciones básicas de un crud
 
-# FrontEnd
+## FrontEnd
 
 Consumiendo la api rest con react
