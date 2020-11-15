@@ -4,6 +4,6 @@
 
 Api rest usando Typescript, operaciones básicas de un crud
 
-## FrontEnd
+## Frontend
 
 Consumiendo la api rest con react
